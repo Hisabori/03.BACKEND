@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="taglibs-standard-compat-1.2.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../taglibs-standard-compat-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../taglibs-standard-impl-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../taglibs-standard-jstlel-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../taglibs-standard-spec-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../gson-2.9.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
