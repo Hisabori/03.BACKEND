@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../../../../../DEV/2.backend/BACKEND/BACKEND/01_Servlet/01_Servlet.iml" filepath="$PROJECT_DIR$/../../../../../DEV/2.backend/BACKEND/BACKEND/01_Servlet/01_Servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../DEV/2.backend/BACKEND/02_JSP.iml" filepath="$PROJECT_DIR$/../../../../../DEV/2.backend/BACKEND/02_JSP.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../../../../DEV/2.backend/BACKEND/BACKEND/03_EL_JSTL/03_EL_JSTL.iml" filepath="$PROJECT_DIR$/../../../../../DEV/2.backend/BACKEND/BACKEND/03_EL_JSTL/03_EL_JSTL.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../../../../DEV/2.backend/BACKEND/BACKEND/04_AJAX/04_AJAX.iml" filepath="$PROJECT_DIR$/../../../../../DEV/2.backend/BACKEND/BACKEND/04_AJAX/04_AJAX.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../../../../DEV/2.backend/BACKEND/05_MVC2.iml" filepath="$PROJECT_DIR$/../../../../../DEV/2.backend/BACKEND/05_MVC2.iml" />
